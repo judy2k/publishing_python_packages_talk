@@ -1,0 +1,1 @@
+Starting with nothing, we'll build a package and publish it on PyPI using current best practices! Learn how to structure, document and test your project on different platforms. Discover the difference between `setup.py` and `Pipfile`. Finally, use CookieCutter to avoid doing it twice (or even once)!
