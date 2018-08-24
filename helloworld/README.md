@@ -7,7 +7,7 @@ This is an example project demonstrating how to publish a python module to PyPI.
 Run the following to install:
 
 ```python
-pip install helloworld
+pip install helloworld-judy2k
 ```
 
 ## Usage
