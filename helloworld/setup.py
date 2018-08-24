@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="helloworld",
+    name="helloworld-judy2k",
     version="0.0.1",
     description="Say hello!",
     py_modules=["helloworld"],
@@ -18,7 +18,7 @@ setup(
         "License :: OSI Approved :: GNU General Public License v2 or later (GPLv2+)",
         "Operating System :: OS Independent",
     ],
-    url="https://github.com/example/helloworld",
+    url="https://github.com/judy2k/helloworld",
     author="Mark Smith",
     author_email="mark.smith@vonage.com",
 )
