@@ -9,6 +9,7 @@ name = "pypi"
 [dev-packages]
 pytest = ">=3.7"
 check-manifest = "*"
+twine = "*"
 
 [requires]
 python_version = "3.6"
