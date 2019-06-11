@@ -21,4 +21,16 @@ setup(
     url="https://github.com/judy2k/helloworld",
     author="Mark Smith",
     author_email="mark.smith@vonage.com",
+
+    install_requires = [
+        "blessings ~= 1.7",
+    ],
+
+    extras_require = {
+        "dev": [
+            "pytest >= 3.7",
+            "check-manifest",
+            "twine",
+        ],
+    },
 )
